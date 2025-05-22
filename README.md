@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Gabriel Kowaleski 👋</h1>
 
 <p align="center">
-  <i>iOS & Web Developer | Creative Problem Solver | Swift & JavaScript Enthusiast</i>
+  <i>iOS & Web Developer | Creative Problem Solver</i>
 </p>
 
 ---
