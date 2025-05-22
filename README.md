@@ -8,11 +8,14 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=K0W4&show_icons=true&theme=shadowred&hide_border=true" alt="GitHub Stats" />
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K0W4&show_icons=true&theme=shadow_red&hide_border=true" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0W4&layout=compact&theme=shadowred&hide_border=true" alt="Top Languages" />
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0W4&layout=compact&theme=shadow_red&hide_border=true" />
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=K0W4&theme=shadow_red&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -52,10 +55,6 @@
 - [Email](mailto:kowaleskigabriel@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=K0W4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K0W4&label=Profile%20views&color=blue" alt="K0W4" />
