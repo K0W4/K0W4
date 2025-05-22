@@ -25,7 +25,6 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently studying Software Engineering at **PUCRS**  
-- 🍎 Member of the **Apple Developer Academy** (2025–2026)  
 - 🚀 Passionate about building intuitive and beautiful apps  
 - 🎮 Dreaming of merging tech & storytelling through **game development**  
 - 📍 Based in Brazil, working remotely and open to part-time/flexible roles
