@@ -9,13 +9,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img height="250em" src="https://github-readme-stats.vercel.app/api?username=K0W4&show_icons=true&theme=shadow_red&hide_border=true" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=K0W4&show_icons=true&theme=midnight-purple&hide_border=true" />
     </td>
     <td align="center">
-      <img height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=K0W4&theme=shadow_red&hide_border=true" />
+      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=K0W4&theme=midnight-purple&hide_border=true" />
     </td>
     <td align="center">
-      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0W4&layout=compact&theme=shadow_red&hide_border=true" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0W4&layout=compact&theme=midnight-purple&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -35,14 +35,31 @@
 ### 🧰 Tech Stack
 
 <p>
+  <!-- Mobile -->
   <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+
+  <!-- Banco de Dados -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+
+  <!-- DevOps & Others -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=white" />
 </p>
 
