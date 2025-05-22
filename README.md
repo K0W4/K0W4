@@ -73,6 +73,10 @@
 
 ---
 
+![Snake animation]()
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K0W4&label=Profile%20views&color=blue" alt="K0W4" />
 </p>
