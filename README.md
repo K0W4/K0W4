@@ -73,7 +73,7 @@
 
 ---
 
-![Snake animation]()
+!![Snake animation](./snake.gif)
 
 ---
 
