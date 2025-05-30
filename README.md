@@ -75,6 +75,7 @@
 <div aling=center>
   <img src="https://raw.githubusercontent.com/K0W4/K0W4/output/snake.svg" alt="Snake animation" />
 </div>
+
 ---
 
 <p align="center">
