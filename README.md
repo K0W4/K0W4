@@ -40,7 +40,7 @@
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
