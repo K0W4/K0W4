@@ -1,21 +1,10 @@
 <h1 align="center">Hi there! I'm Gabriel Kowaleski 👋</h1>
 
+---
+
 <p align="center">
   <i>iOS & Web Developer | Creative Problem Solver</i>
 </p>
-
----
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=K0W4&show_icons=true&theme=midnight-purple&hide_border=true" />
-    </td>
-    <td align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0W4&layout=compact&theme=midnight-purple&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 ---
 
